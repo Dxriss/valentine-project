@@ -1,0 +1,12 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laman Web Saya</title>
+</head>
+<body>
+    <h1>Selamat datang ke laman web saya!</h1>
+    <p>Ini adalah laman web pertama saya menggunakan HTML.</p>
+</body>
+</html>
